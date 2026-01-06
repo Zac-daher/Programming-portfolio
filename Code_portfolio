@@ -34,7 +34,7 @@ understanding how multithreaded programs behave at the system level.
 
 https://github.com/Zac-daher/pr4_2_parallel_threading_c
 
-# 5. OptiFit — AI Workout Generator
+# 5. OptiFit — Real time data AI Workout Generator (optimal fitness plan)
 A Flask-based fitness application that generates daily workout plans based on
 recovery metrics (some being HRV, sleep, stress, and user goals). The application
 constructs structured prompts and takes real time data from Garmin's API for now, but will
