@@ -3,8 +3,7 @@
 Hi, I’m Zachary Daher. I’m a West Point cadet graduating in 2026. 
 
 This repository highlights projects that demonstrate my experience in 
-projects that I enjoyed.
-
+projects that I enjoyed. Look at my Github https://github.com/Zac-daher and the listed links below for repositories.
 ## Featured Projects
 # 1. WILD — Agentic AI with Retrieval-Augmented Generation (NSA / Johns Hopkins)
 A research project exploring agentic AI systems built around retrieval-augmented
@@ -41,10 +40,6 @@ recovery metrics (some being HRV, sleep, stress, and user goals). The applicatio
 constructs structured prompts and takes real time data from Garmin's API for now, but will
 be connected to whoop, Aura, apple watch soon. Based on the user's data, the LLM generates a 
 workout with respect to the user's goal.
-
-Planned future work includes integrating wearable APIs (e.g., Garmin),
-adding user profiles and workout history, and strengthening safety constraints
-and input validation.
 
 https://github.com/Zac-daher/OptiFit
 
